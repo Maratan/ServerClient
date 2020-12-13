@@ -1,0 +1,11 @@
+c:\users\root\documents\visual studio 2012\Projects\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+c:\users\root\documents\visual studio 2012\Projects\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+c:\users\root\documents\visual studio 2012\Projects\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+c:\users\root\documents\visual studio 2012\Projects\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+c:\users\root\documents\visual studio 2012\Projects\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+C:\Users\Toxa\Desktop\server\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe.config
+C:\Users\Toxa\Desktop\server\ClientTCP\ClientTCP\obj\Debug\ClientTCP.exe
+C:\Users\Toxa\Desktop\server\ClientTCP\ClientTCP\obj\Debug\ClientTCP.pdb
+C:\Users\Toxa\Desktop\server\ClientTCP\ClientTCP\bin\Debug\ClientTCP.exe
+C:\Users\Toxa\Desktop\server\ClientTCP\ClientTCP\bin\Debug\ClientTCP.pdb
+C:\Users\Toxa\Desktop\server\ClientTCP\ClientTCP\obj\Debug\ClientTCP.csprojResolveAssemblyReference.cache
