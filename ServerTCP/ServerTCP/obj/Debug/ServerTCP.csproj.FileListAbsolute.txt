@@ -1,0 +1,10 @@
+c:\users\root\documents\visual studio 2012\Projects\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+c:\users\root\documents\visual studio 2012\Projects\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+c:\users\root\documents\visual studio 2012\Projects\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+c:\users\root\documents\visual studio 2012\Projects\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+c:\users\root\documents\visual studio 2012\Projects\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Toxa\Desktop\server\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+C:\Users\Toxa\Desktop\server\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+C:\Users\Toxa\Desktop\server\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb
+C:\Users\Toxa\Desktop\server\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+C:\Users\Toxa\Desktop\server\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
